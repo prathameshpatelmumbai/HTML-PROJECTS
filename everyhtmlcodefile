@@ -28,7 +28,7 @@ p {
 </style>
 </head>
 <body>
-<h2>Link Colors</h2>
+<b><h2>Link Colors</h2></b>
 
 <p>You can change the default colors of links</p>
 
